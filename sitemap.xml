@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://istegecb.in</loc></url>
   <url>
-    <loc>https://istegecb.in/achievements.html</loc>
+    <loc>https://istegecb.in/achievements</loc>
   </url>
   <url>
     <loc>https://istegecb.in/alumni.html</loc>
@@ -38,7 +38,7 @@
     <loc>https://istegecb.in/developers</loc>
   </url>
   <url>
-    <loc>https://istegecb.in/events.html</loc>
+    <loc>https://istegecb.in/events</loc>
   </url>
   <url>
     <loc>https://istegecb.in/execom.html</loc>
@@ -59,7 +59,7 @@
     <loc>https://istegecb.in/NTS.html</loc>
   </url>
   <url>
-    <loc>https://istegecb.in/oracle.html</loc>
+    <loc>https://istegecb.in/oracle</loc>
   </url>
   <url>
     <loc>https://istegecb.in/our-student-chapter-members.html</loc>

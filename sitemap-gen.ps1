@@ -2,7 +2,12 @@ $baseUrl = "https://istegecb.in"
 
 # Add the specific pages here that you want without the .html extension
 $stripHTMLExtensionList = @(
-  "developers.html"
+  "developers.html",
+  "events.html",
+  "oracle.html",
+  "achievements.html"
+
+
   # "about.html", 
   # "contact.html"
 )
